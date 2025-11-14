@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Street clothes",
+    "imageUrls": ["assets/images/streetClothes.jpg"]
+  },
+
+  {
+    "id": "1",
+    "title": "Evening Dress",
+    "brand": "Dorothy Perkins",
+    "description": "Élégante",
+    "price": 12.0,
+    "oldPrice": 15.0,
+    "discount": 20,
+    "imageUrls": ["assets/images/eveningDress.png"],
+    "rating": 5.0,
+    "reviews": 10,
+    "isNew": false
+  },
+  {
+    "id": "2",
+    "title": "Sport Dress",
+    "brand": "Sitlly",
+    "description": "You can run in this",
+    "price": 19.0,
+    "oldPrice": 22.0,
+    "discount": 15,
+    "imageUrls": [
+      "assets/images/sportDress.png"
+    ],
+    "rating": 5.0,
+    "reviews": 10,
+    "isNew": false
+  },
+  {
+    "id": "3",
+    "title": "Short Dress",
+    "brand": "H&M",
+    "description": "Short dress in soft cotton jersey with decorative buttons down the front and a wide, frill-trimmed",
+    "price": 19.0,
+    "oldPrice": 24.0,
+    "discount": 20,
+    "imageUrls": [
+      "assets/images/shortDress.png",
+      "assets/images/T-Shirt.png"
+    ],
+    "rating": 5.0,
+    "reviews": 10,
+    "isNew": false
+  },
+  {
+    "id": "4",
+    "title": "Blouse",
+    "brand": "OVS",
+    "description": "一件優雅的紅白條紋襯衫",
+    "price": 30.0,
+    "imageUrls": ["assets/images/blouse.png"],
+    "rating": 0.0,
+    "reviews": 0,
+    "isNew": true
+  },
+  {
+    "id": "5",
+    "title": "T-Shirt Sailing",
+    "brand": "Mango Boy",
+    "description": "This is a very white man",
+    "price": 10.0,
+    "imageUrls": [
+      "assets/images/T-shirtSailing.png"
+    ],
+    "rating": 0.0,
+    "reviews": 0,
+    "isNew": true
+  },
+  {
+    "id": "6",
+    "title": "Black Shirt",
+    "brand": "H&M",
+    "description": "Black on black action",
+    "price": 8.0,
+    "imageUrls": ["assets/images/shirt.png"],
+    "rating": 0.0,
+    "reviews": 0,
+    "isNew": true
+  }
+]
